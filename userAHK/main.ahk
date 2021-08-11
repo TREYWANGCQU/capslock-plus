@@ -1,4 +1,4 @@
-#include demo.ahk
+﻿#include demo.ahk
 
 /*
 不打算修改程序本身，只想为某个按键实现功能的话，可以在这里：

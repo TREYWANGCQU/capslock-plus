@@ -1,4 +1,6 @@
-﻿/*
+﻿
+
+/*
 提出settings.ini的设置信息
 
 ini demo:
