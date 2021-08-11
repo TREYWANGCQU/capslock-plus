@@ -3,8 +3,9 @@
 ; 规定函数以"keyFunc_"开头
 
 keyFunc_ditto(){
-    sendinput, !{w}
-    winwait, 0.5
+; 发送 ctrl+` 按键(``转义)
+    sendinput, ^{``}
+    winwait, ahk_exe Ditto.exe, , 0.5
 }
 
 keyfunc_listary(){
